@@ -49,3 +49,44 @@ nav .nav-right-section .menu-icon{
 nav .nav-right-section img{
     border-radius: 50%;
 }
+
+main{
+    margin-top: 150px;
+    text-align: center;
+}
+
+main .main-logo{
+    width: 530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+
+main img{
+    height:40%;
+    width: 80%;
+}
+
+main .main-input{
+    width:530px;
+    margin: 0 auto;
+    margin-bottom: 35px;
+}
+
+main .main-input-container{
+    width: 525px;
+    border-radius: 100px;
+    border: 1px solid #5f63689d;
+}
+
+main .main-input input{
+    width:430px;
+    height:40px;
+    border:none;
+    outline: none;
+}
+
+main .main-input-container:hover{
+    box-shadow: 0 1px 6px 0 #1e252c9d;
+    border-color: #3235389d;
+}
